@@ -54,14 +54,11 @@ Based on our implementation you need to write roughly < 200 lines of SMART code.
 
 
 ## Steps
-1. Fork this repo on your Github account.
-2. Make a directory on `challenges/3/YOUR-CODE-GOES-HERE` with your github username. (e.g.: `challenges/3/YOUR-CODE-GOES-HERE/yeganemehr`)
-3. Copy `project` contents into your directory that you just made.
-4. Start coding wherever it's needed.
-5. Run `vendor/bin/phpunit`.
-6. Send us a pull request when all tests are passed.
-7. Make sure CI run successfully.
-8. Wait for us!
+1. Start coding wherever it's needed.
+2. Run `vendor/bin/phpunit`.
+3. Send us a pull request when all tests are passed.
+4. Make sure CI run successfully.
+5. Wait for us!
 
 
 ## Technology & Framework
